@@ -1,0 +1,2 @@
+# Hearing-Aid-Charging-Case
+Since I was young, I have suffered complications with my eardrums. As a result I have lost a significant amount of hearing. I recently made the decision to buy a hearing aid, to help myself hear more clearly. The case of the hearing aid I purchase has a flawed mechanical and electrical design. It does not fully enclose the hearing aids and it must be plugged into the wall to charge them. I wanted to make the experience more seamless for myself so I decided to design my own charging case, inspired by the Apple AirPods case.
