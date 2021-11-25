@@ -15,4 +15,4 @@ I aimed to remedy both of these problems by designing a PCB that would provide r
  
  The case was completely redesigned to accomodate the new PCB and its various features, including an RGB LED indicator and an ON/OFF switch.
 
-<img src="https://github.comEohayon/Hearing-Aid-Charging-Case/blob/main/Pictures/Case Render.jpg?raw=true" width="35%" height="35%">  <img src="https://github.com/Eohayon/Hearing-Aid-Charging-Case/blob/main/Pictures/Schematic.png?raw=true" width="60%" height="60%"> 
+<img src="https://github.com/Eohayon/Hearing-Aid-Charging-Case/blob/main/Pictures/Case%20Render.jpg" width="35%" height="35%">  <img src="https://github.com/Eohayon/Hearing-Aid-Charging-Case/blob/main/Pictures/Schematic.png" width="60%" height="60%"> 
